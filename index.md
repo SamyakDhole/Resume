@@ -1,4 +1,4 @@
-Download as pdf : https://github.com/SamyakDhole/Resume/blob/master/Resume.pdf
+Download as pdf : [link](https://github.com/SamyakDhole/Resume/blob/master/SamyakResume.pdf "Here") 
 <div style="background: #ffffff; box-sizing: border-box; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.75s; cursor: default; font-size: 300%; vertical-align: baseline; outline: 0px; text-align: left; font-feature-settings: 'liga' 0; overflow: visible;">
 <div style="min-height: 100%; margin: 0px; box-sizing: border-box; outline: 0px; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.75s; vertical-align: baseline; padding: 0px; font-size: 100%; border: 0px; background: transparent; margin-bottom: -135px; display: block;">
 <div style="box-sizing: border-box; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; margin: 0px; padding: 0px; outline: 0px; border: 0px; font-size: 100%; vertical-align: baseline; background: transparent;">
