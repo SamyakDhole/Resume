@@ -31,7 +31,7 @@
 </div>
 <div style="border: 0px; margin: 0px; box-sizing: border-box; outline: 0px; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; padding: 0px; font-size: 100%; vertical-align: baseline; background: transparent; position: relative; margin-top: 0px;">
 <div style="border: 0px; margin: 0px; box-sizing: border-box; outline: 0px; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; padding: 0px; font-size: 100%; vertical-align: baseline; background: transparent; margin-left: 0px; width: 562px;">
-<div>Student of&nbsp;Chemistry and Electronics interested in the&nbsp;development of new materials and nanoscience seeking to apply for a semester-long project course. Skilled at identifying research problems and potential approaches to solving them.</div>
+<div>Student of&nbsp;Chemistry and Electronics interested in the&nbsp;development of new materials and seeking to apply for a semester-long project course. Proficient at conducting literature reviews to identify potential research problems and finding approaches to solve them. Has experience in both experimental and theoretical research.</div>
 </div>
 </div>
 </div>
