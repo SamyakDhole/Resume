@@ -135,7 +135,7 @@
 </div>
 </div>
 <div><span style="box-sizing: border-box; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; margin: 0px; padding: 0px; outline: 0px; border: 0px; font-size: 100%; vertical-align: baseline; background: transparent; font-weight: bold;">Program Description</span> : Five Year Dual Degree Course</div>
-<div><strong>Current Semester</strong> : Fourth Year, Second Semester</div>
+<div><span style="box-sizing: border-box; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; margin: 0px; padding: 0px; outline: 0px; border: 0px; font-size: 100%; vertical-align: baseline; background: transparent; font-weight: bold;">Current Semester</span> : Fourth Year, Second Semester</div>
 </div>
 <div style="border: 0px; margin: 0px; box-sizing: border-box; outline: 0px; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; padding: 0px; font-size: 100%; vertical-align: baseline; background: transparent; margin-top: 6px; position: relative;">
 <div style="font-size: 100%; margin: 0px; box-sizing: border-box; outline: 0px; transition: color 0.25s, background-color 0.25s, border-color 0.5s, opacity 0.25s; border: 0px; padding: 0px; vertical-align: baseline; background: transparent; clear: both; font-weight: bold; margin-bottom: 2px;">
